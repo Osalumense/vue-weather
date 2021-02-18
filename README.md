@@ -1,4 +1,5 @@
 # vue-weather
+It can be viewed on https://osalumense.github.io/vue-weather/
 
 ## Project setup
 ```
